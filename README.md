@@ -6,5 +6,6 @@
 * [ArrayEx 배열/if/Switch/WhileEx](https://github.com/SohyunOh/javabasic/tree/master/day03)
 * [DoWhileEX_반복문](https://github.com/SohyunOh/javabasic/tree/master/day04)
 * [Break_탈출문](https://github.com/SohyunOh/javabasic/tree/master/day05)
+* [Array_배열추가삭제수정](https://github.com/SohyunOh/javabasic/tree/master/day06)
 
 
