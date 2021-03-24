@@ -6,7 +6,7 @@ public class SystemOut {
 
 		/*
 		 * 코드실행 단축키 - Ctrl + f11
-		 * sysout이라고 적고 ctrl + space를 누르면 println() 이 자동 생성됩니다.
+		 * 'sysout' 또는 'syso' 이라고 적고 ctrl + space를 누르면 println() 이 자동 생성됩니다.
 		 * 
 		 * 되돌리기 ctrl + z
 		 * 정렬 ctrl + a, ctrl + i
