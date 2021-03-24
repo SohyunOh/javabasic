@@ -18,6 +18,5 @@ public class IdentifierEx {
 		//키워드는 사용할 수 없음
 //		int class = 1;
 		
-		
 	}
 }
