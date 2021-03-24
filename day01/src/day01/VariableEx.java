@@ -27,6 +27,7 @@ public class VariableEx {
 		System.out.println(result);
 		
 		//문자열을 저장하는 대표적인 타입
+		//String 은 참조형 클래스
 		String str = "1";
 		
 		//자바에서 변수는 타입이 다르면, 바로 저장 할 수 없습니다.
