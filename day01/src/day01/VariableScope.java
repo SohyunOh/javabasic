@@ -12,7 +12,7 @@ public class VariableScope {
 		//변수는 해당 중괄호 안에서만 유효 합니다.
 		if(true) {
 			int num3 = num1 + num2;
-			num4 = num1; //
+			num4 = num1;
 			
 			System.out.println(num3);
 		}
