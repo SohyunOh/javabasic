@@ -21,7 +21,7 @@ public class CastingEx01 {
 		int k = 1000;
 		double d = k; //int -> double
 		System.out.println(d);
-		
+		 
 		
 	}
 }
