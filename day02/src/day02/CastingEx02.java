@@ -28,7 +28,7 @@ public class CastingEx02 {
 		System.out.println(b);
 		
 		/*
-		 * 예외적으로
+		 * 예외적으로 
 		 * char형을 short형으로 바꿀 때도 명시적 형변환이 필요합니다.
 		 */
 		
