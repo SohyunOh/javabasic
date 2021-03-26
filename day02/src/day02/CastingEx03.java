@@ -19,20 +19,14 @@ public class CastingEx03 {
 		double d = 3.14;
 		int result = (int)(j + d);
 		
-		//2. int형보다 작은 타입의 연산 결과는 int가 됩니다.
+		//2. int형보다 작은 타입의 연산 결과는 int가 됩니다. 
 		byte b1 = 100;
 		byte b2 = 10;
 		byte b3 = (byte)(b1 + b2);
 		
-		
 		short s1 = 100;
 		byte b4 = 10;
 		short ss = (short)(s1 + b4);
-		
-		
-		
-		
-		
 		
 		
 		
