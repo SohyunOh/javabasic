@@ -22,7 +22,7 @@ public class IfEx01 {
 //			System.out.println("불합격입니다");
 //		}
 		
-		
+		 
 		
 		
 		
