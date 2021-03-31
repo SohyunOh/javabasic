@@ -31,7 +31,7 @@ public class IfEx02 {
 			System.out.println("F학점");
 		}
 		
-		
+		 
 		
 		
 		
