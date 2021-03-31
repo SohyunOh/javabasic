@@ -29,7 +29,6 @@ public class ScannerEx {
 		System.out.println("자기소개:" + intro);
 		
 		
-		
 		//스캐너 사용종료
 		scan.close();
 		
