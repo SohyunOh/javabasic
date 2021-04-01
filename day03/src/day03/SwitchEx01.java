@@ -12,7 +12,7 @@ public class SwitchEx01 {
 		case 0:
 		case 1:
 			System.out.println("0또는 1입니다");
-			break; //switch구문을 빠져나와라
+			break; //switch구문을 빠져나와라 // 케이스 0과 1 모두 해당되는 경우 
 		case 2:
 			System.out.println("2입니다");
 			break;
