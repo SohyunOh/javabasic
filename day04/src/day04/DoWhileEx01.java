@@ -25,7 +25,7 @@ public class DoWhileEx01 {
 		
 		System.out.println("1~10까지 합:" + sum);
 		
-		
+		//  dowhile 문은 조건이 뒤에 붙는다
 		
 		
 		
