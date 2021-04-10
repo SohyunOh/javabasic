@@ -21,10 +21,10 @@ public class ForEx02 {
 		}
 		
 		System.out.println(count == 2 ? num + "은 소수" : num + "은 소수가 아닙니다");
-		
+		//3항식 count 가 2 인가 ? t면 num 은 소수 출력 : f면  num운 소수가 아닙니다 출력
 	
 		scan.close();
-		
+		//스캐너 닫아주기! 메모리 누수 조심!
 		
 		
 		
