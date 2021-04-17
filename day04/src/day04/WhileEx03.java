@@ -18,7 +18,7 @@ public class WhileEx03 {
 			i++;
 		}
 		
-		
+		 
 		System.out.println("1~100까지 짝수 개수:" + count);
 		
 		
