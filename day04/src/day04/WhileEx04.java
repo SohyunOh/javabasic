@@ -17,7 +17,7 @@ public class WhileEx04 {
 			int num = scan.nextInt();
 			sum += num;
 			
-			i++;
+			i++; 
 		}
 		
 		
