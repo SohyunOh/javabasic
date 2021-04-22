@@ -23,7 +23,7 @@ public class WhileEx05 {
 		
 		System.out.println("배열요소의 합:" + sum);
 		
-		
+		 
 		
 	}
 }
