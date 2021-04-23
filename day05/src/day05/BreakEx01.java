@@ -23,7 +23,7 @@ public class BreakEx01 {
 		}
 		
 		
-		
+		//i가 15 이면 브레이크문 으로 종료 
 		
 		
 		
