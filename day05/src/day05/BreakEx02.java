@@ -23,7 +23,8 @@ public class BreakEx02 {
 				System.out.println("틀렸는데요?");
 			}
 			
-			
+			//  5의 곱셈 문제 
+			// 랜덤 수로 1~10 까지의 수를 랜덤으로 제출후 답의 유무 체크 
 		}
 		
 		
