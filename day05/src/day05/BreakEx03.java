@@ -19,7 +19,7 @@ public class BreakEx03 {
 			
 			if(bool) break;
 						
-		} //외부 for
+		} //외부 for 
 		*/
 		
 		이름:for(char u = 'A'; u <= 'Z'; u++) {
