@@ -19,7 +19,7 @@ public class ArrayDelete {
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("삭제할 학생의 별명을 입력하세요>");
-		String name = scan.next();
+		String name = scan.next(); //스캔 함수 
 		
 		int count = arr.length; //사람수.
 		boolean chk = true; //값의 여부를 체크할 변수
