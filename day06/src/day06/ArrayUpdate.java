@@ -23,7 +23,7 @@ public class ArrayUpdate {
 				System.out.print(">");
 				arr[i] = scan.next();
 				chk = false; //변경되었다는 의미
-			}
+			} 
 			 
 		}
 		
