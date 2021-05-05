@@ -19,7 +19,7 @@ public class StudentManager {
 		//저장된 사람 수를 알기 위한 변수 count
 		int count = 0;
 		
-		end:while(true) {
+		end:while(true) {// 'end:' 구문으로 종료 
 			
 			System.out.println("----------------------------");
 			System.out.println("[메뉴] 1.Insert, 2.Prev, 3.Next, 4.Current, 5.Update, 6.Delete, 7.Quit");
