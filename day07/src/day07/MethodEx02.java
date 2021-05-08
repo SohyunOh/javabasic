@@ -52,7 +52,7 @@ public class MethodEx02 {
 			str += s;
 		}
 		
-		return str;
+		return str; 
 	}
 	
 	
