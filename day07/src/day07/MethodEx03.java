@@ -29,7 +29,7 @@ public class MethodEx03 {
 		return a + b;
 	}
 	
-	static void sub(int a, int b) { //반환유형이 없는 메서드
+	static void sub(int a, int b) { //반환유형(return )이 없는 메서드
 		System.out.println(a + "-" + b + "=" + (a-b) );
 	}
 	
