@@ -14,13 +14,13 @@ public class MethodEx04 {
 		System.out.println(Arrays.toString(arr2));
 	}
 	
-	//매개변수로 배열을 받는 메서드
+	//매개변수로 배열을 받는 메서드 "void"
 	static void method01(int[] arr) {
 		
 		System.out.println(Arrays.toString( arr ) );
 	}
 	
-	//반환유형으로 배열을 돌려주는 메서드
+	//반환유형으로 배열을 돌려주는 메서드 "return"
 	static String[] method02() {
 		
 		String[] week = {"월","화", "수" };
