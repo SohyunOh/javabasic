@@ -30,7 +30,7 @@ public class ObjectBasic01 {
 		return result2;
 	}
 	
-	
+	 
 	
 	
 }
