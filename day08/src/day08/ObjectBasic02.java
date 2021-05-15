@@ -18,7 +18,7 @@ public class ObjectBasic02 {
 		System.out.println(cal2.add(20) );
 		System.out.println(cal2.add(30) );
 		
-	}
+	} 
 	
 	
 	
