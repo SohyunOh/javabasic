@@ -4,9 +4,9 @@ package day08;
 public class Pen {
 
 	//클래스의 속성을 나타내는 것을 멤버변수 라고 부릅니다.
-	String color;
-	int price;
-	String company;
+	String color; //색
+	int price; //가격
+	String company; //회사
 	
 	//클래스의 안에 기능을 나타내는 것을 메서드 라고 부릅니다.
 	void write() {
