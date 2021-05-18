@@ -34,8 +34,7 @@ public class Phone {
 		price = pPrice;
 		model = pModel;
 	}
-	
-	
+	 
 	
 	void info() {
 		System.out.println("---폰의 정보---");
