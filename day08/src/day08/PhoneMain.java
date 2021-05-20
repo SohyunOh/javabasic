@@ -4,7 +4,7 @@ public class PhoneMain {
 
 	public static void main(String[] args) {
 		
-		Phone black = new Phone();
+		Phone black = new Phone(); 
 		black.info();
 		
 		Phone white = new Phone("하얀색");
@@ -17,6 +17,6 @@ public class PhoneMain {
 		//green, 1000000, 아이폰 으로 객체를 생성.
 		Phone iphone = new Phone("green", 1000000, "아이폰");
 		iphone.info();
-		
+		 
 	}
 }
