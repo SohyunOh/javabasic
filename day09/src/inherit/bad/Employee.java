@@ -9,5 +9,5 @@ public class Employee {
 	String info() {
 		return "이름:" + name + ", 나이:" + age;
 	}
-	
+	 
 }
