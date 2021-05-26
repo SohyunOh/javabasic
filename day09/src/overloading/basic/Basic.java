@@ -10,8 +10,8 @@ public class Basic {
 	 * 4. 매개변수 종류가 달라야 함.
 	 * 5. 매개변수 순서가 달라야 함.
 	 * ->즉 완전히 동일하지 않으면 됨
-	 */
-	
+	 */ 
+	 
 	void input(int a) {
 		System.out.println("정수 1개를 입력됨");
 	}
