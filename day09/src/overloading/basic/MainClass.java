@@ -10,6 +10,6 @@ public class MainClass {
 		b.input(1);
 		b.input(1, 0.1);
 		b.input(0.1, 1);
-		
+		 
 	}
 }
