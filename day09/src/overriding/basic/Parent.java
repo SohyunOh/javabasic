@@ -9,5 +9,5 @@ public class Parent {
 	void method02() {
 		System.out.println("부모의 2번 메서드 실행");
 	}
-	
+	 
 }
