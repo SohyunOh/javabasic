@@ -16,7 +16,7 @@ public class MainClass {
 		t.subject = "수학";
 		System.out.println( t.info() );
 		
-		
+		 
 		
 		
 		
