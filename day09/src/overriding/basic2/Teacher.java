@@ -1,7 +1,7 @@
 package overriding.basic2;
 
 public class Teacher extends Person {
-
+	// 선생님 클래스 에 사람을 상속 
 	String subject;
 
 	String info() {
