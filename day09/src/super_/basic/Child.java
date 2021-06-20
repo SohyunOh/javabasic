@@ -6,3 +6,4 @@ public class Child extends Parent {
 		super(father, mother);
 	}
 }
+ 
