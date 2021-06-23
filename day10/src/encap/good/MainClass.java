@@ -9,7 +9,6 @@ public class MainClass {
 		me.setYear(2020);
 		System.out.println("년도:" + me.getYear());
 		
-		
 	}
 	
 }
