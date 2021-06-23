@@ -1,7 +1,8 @@
 package encap.bad;
 
 public class MyDate {
-	//은닉을 사용하지 않는다면?
+	
+	//은닉을 사용하지 않는다면? 
 	
 	public int year;
 	public int month;
