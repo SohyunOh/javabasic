@@ -11,7 +11,7 @@ public class Member {
 
 	public Member() {
 		
-	}
+	} 
 	
 	public Member(String id, String pw, String email, String address, int zipNum, int phone) {
 		super();
