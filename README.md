@@ -11,3 +11,4 @@
 * [overriding](https://github.com/SohyunOh/javabasic/tree/master/day09/src)
 * [접근제어자](https://github.com/SohyunOh/javabasic/tree/master/day10/src/modi/cls)
 * [getter/setter](https://github.com/SohyunOh/javabasic/tree/master/day10/src/encap/good)
+* [Basic_다형성/Object타입](https://github.com/SohyunOh/javabasic/blob/master/day10/src/poly/basic/Basic.java)
