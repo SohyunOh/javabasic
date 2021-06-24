@@ -32,9 +32,9 @@ public class Basic {
 	//상속관계가 없다면 다형성 적용이 불가능합니다.
 	//B b1 = new E(); 
 	
-	//Object타입은 뭐든지 담을 수 있습니다.
+	//Object타입은 뭐든지 담을 수 있습니다. 
 	Object o1 = a;
 	Object o2 = "문자열";
-	Object o3 = 1;
+	Object o3 = 1; 
 	
 }
