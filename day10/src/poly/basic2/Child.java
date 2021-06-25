@@ -9,6 +9,6 @@ public class Child extends Parent {
 	public void method3() {
 		System.out.println("자식의 3번 메서드 실행");
 	}
-	
+	 
 	
 }
