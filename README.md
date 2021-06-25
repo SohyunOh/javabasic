@@ -12,3 +12,4 @@
 * [접근제어자](https://github.com/SohyunOh/javabasic/tree/master/day10/src/modi/cls)
 * [getter/setter](https://github.com/SohyunOh/javabasic/tree/master/day10/src/encap/good)
 * [Basic_다형성/Object타입](https://github.com/SohyunOh/javabasic/blob/master/day10/src/poly/basic/Basic.java)
+* [다형성/클래스 캐스팅](https://github.com/SohyunOh/javabasic/blob/master/day10/src/poly/basic2/MainClass.java)
