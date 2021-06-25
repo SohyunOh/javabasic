@@ -34,7 +34,7 @@ public class MainClass {
 		cc.method2();
 		cc.method3();
 		
-		//Parent pp = (Parent)new Object(); // (x)
+		//Parent pp = (Parent)new Object(); // (x) 
 		
 	}
 }
