@@ -12,8 +12,7 @@ public class Calculator {
 	public static double pi = 3.14;
 	
 	/*
-	 * 일반 멤버변수를 참조하는 메서드는 static메서드로 선언하면 
-	 * 안됩니다.
+	 * 일반 멤버변수를 참조하는 메서드는 static메서드로 선언하면 안됩니다.
 	 */
 	
 	public void setColor(String color) {
