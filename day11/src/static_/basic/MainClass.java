@@ -12,7 +12,7 @@ public class MainClass {
 		 * 3. circle() 를 사용해서 원의 넓이를 확인
 		 */
 		
-		Calculator cal1 = new Calculator();
+		Calculator cal1 = new Calculator(); //생성
 		cal1.setColor("green");
 		
 		Calculator cal2 = new Calculator();
